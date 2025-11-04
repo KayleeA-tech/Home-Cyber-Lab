@@ -1,39 +1,35 @@
 # Home-Cyber-Lab - Ubuntu VM on macOS
 
 ## Objective
-I wanted to build a secure, isolated virtual environment for learning cybersecuirity skills safely without affecting my main system.
+This project demonstrates how I built a personal cybersecurity lab by setting up an Ubuntu virtual machine on my Mac using **UTM**. The goal was to create a safe environment to practice Linux, system configuration, and cybersecurity fundamentals.
 
 ---
 
 **Tools and Environment**
 - Host OS: macOS
 - Guest OS: Ubuntu
-- Virtualization: UTM
-- Other Tools: Terminal, SSH
+- Virtualization Software: UTM
 
 ---
 
 **Setup Steps**
-1. Installed UTM on macOS
-2. Downloaded Ubuntu ISO and created a new VM
-3. Allocated 2 CPUs, 4GB RAM, and 25GB storage
-4. Installed Ubuntu and updated system packages
-5. Took a snapshot for rollback protection
-
----
-
-**Configuration Details**
-
+1. Downloaded and installed Ubuntu ISO image
+2. Created a new virtual machine in UTM
+3. Allocated Ram and CPU cores
+4. Installed Ubuntu and performed basic setup (updates,users, GUI interface, etc.)
 
 ---
 
 **Screenshots**
-![Ubuntu VM running](VM3.png)
+![View Screenshots](./screenshots)
+* VM3 shows UTM installing Ubuntu.
+* VM4 displays UTM downloading the GUI interface.
+* VM5 shows Ubuntu correctly installed and running in the virtual machine.
 
 ---
 
 **What I Learned**
-- How to create and manage virtual machines safely
-- How snapshots protect your work
-- Increased comfort using the Linux terminal
-- Understanding host vs guest network isolation
+- How to use UTM for virtual machine management
+- Installing and running Ubuntu safely on macOS
+- Using snapshots and isolated networking for safe testing
+- Practicing Linux terminal navigation and commands
