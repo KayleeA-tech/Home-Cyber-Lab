@@ -28,7 +28,7 @@ I wanted to build a secure, isolated virtual environment for learning cybersecui
 ---
 
 **Screenshots**
-![Ubuntu VM running](./screenshots/vm-setup.png)
+![Ubuntu VM running](./Home-Cyber_lab/VM3.png)
 
 ---
 
