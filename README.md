@@ -1,7 +1,7 @@
 # Home-Cyber-Lab - Ubuntu VM on macOS
 
 ## Objective
-I wanted to build a secure, isolated virtual environment for learning cybersecuirity skills safely without affeting my main system.
+I wanted to build a secure, isolated virtual environment for learning cybersecuirity skills safely without affecting my main system.
 
 ---
 
